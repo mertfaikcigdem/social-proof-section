@@ -1,7 +1,7 @@
 # social-proof-section
 Live
 
-https://boring-mahavira-db8641.netlify.app/
+https://condescending-lamarr-a21ad5.netlify.app/
 
 Desktop Design
 
