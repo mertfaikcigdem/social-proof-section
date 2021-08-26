@@ -1,6 +1,7 @@
 # social-proof-section
 
 Desktop Design
+
 ![image](https://user-images.githubusercontent.com/83647142/130939007-ee2a400e-cd7f-4ee9-9727-9d96c1059e97.png)
 
 Mobile Design
