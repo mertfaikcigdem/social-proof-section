@@ -186,37 +186,47 @@ body {
     padding: 0;
   }
   .main {
-    margin: 0, auto;
-    display: block;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
   }
   .container {
-    display: grid;
+    display: flex;
+    flex-direction: column;
     align-items: center;
   }
   .info {
+    margin-top: 4rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
     text-align: center;
   }
   .title {
     font-size: 1rem;
     line-height: 1.2rem;
     font-weight: 700;
-    width: 110%;
+    width: 100%;
   }
   .info-text {
     margin-top: 1.5rem;
     font-size: 0.6rem;
-    width: 110%;
+    width: 100%;
   }
   .stars {
-    margin-left: -5rem;
+    margin-left: 0;
     margin-top: 3rem;
+    display: flex;
+    flex-direction: column;
     align-items: center;
-    display: grid;
   }
   .first {
-    display: grid;
+    display: flex;
+    flex-direction: column;
     margin-left: 0;
-    width: 70%;
+    width: 100%;
     align-items: center;
     text-align: center;
   }
@@ -225,9 +235,10 @@ body {
     padding: 0;
   }
   .second {
-    display: grid;
+    display: flex;
+    flex-direction: column;
     margin-left: 0;
-    width: 70%;
+    width: 100%;
     align-items: center;
     text-align: center;
   }
@@ -236,9 +247,10 @@ body {
     padding: 0;
   }
   .third {
-    display: grid;
+    display: flex;
+    flex-direction: column;
     margin-left: 0;
-    width: 70%;
+    width: 100%;
     align-items: center;
     text-align: center;
   }
@@ -251,9 +263,9 @@ body {
     padding: 0;
   }
   .comments {
-    display: grid;
+    display: flex;
     align-items: center;
-    margin-left: -5rem;
+    flex-direction: column;
   }
   .colton {
     margin-top: 1rem;
