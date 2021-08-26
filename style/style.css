@@ -180,7 +180,7 @@ body {
   color: hsl(228, 45%, 44%);
 }
 
-@media only screen and (min-device-width: 375px) and (max-device-width: 999px) {
+@media screen and (max-width: 1024px) {
   body {
     margin: 0;
     padding: 0;
