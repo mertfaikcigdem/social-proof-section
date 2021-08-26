@@ -1,7 +1,7 @@
 # social-proof-section
 Live
 
-https://condescending-lamarr-a21ad5.netlify.app/
+https://elated-blackwell-38f013.netlify.app/
 
 Desktop Design
 
